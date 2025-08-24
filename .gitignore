@@ -1,7 +1,7 @@
 # Python
 __pycache__/
 .venv/
-.env
+.env.example
 
 # Node (if you ever test frontend in same repo)
 node_modules/
